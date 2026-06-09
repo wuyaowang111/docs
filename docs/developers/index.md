@@ -239,7 +239,7 @@ Demo 采用前后端分离：前端 **TS + Vue3**，后端 **Java 11+ / Spring B
 
 **技术支持与资源**：
 
-* **草莓创新官网**：[https://sb.im/](https://sb.im/)
+* **翼飞鸿天官网**：https://www.sz-yfht.com/
 * **上云 API 文档**：[https://developer.dji.com/doc/cloud-api-tutorial/cn/](https://developer.dji.com/doc/cloud-api-tutorial/cn/)
 * **开源后端**：[https://github.com/dji-sdk/DJI-Cloud-API-Demo](https://github.com/dji-sdk/DJI-Cloud-API-Demo)
 * **开源前端**：[https://github.com/dji-sdk/Cloud-API-Demo-Web](https://github.com/dji-sdk/Cloud-API-Demo-Web)
