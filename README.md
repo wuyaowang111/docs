@@ -24,8 +24,8 @@ npm run build
 
 ## 技术支持
 
-- **技术支持**: developer@sb.im
-- **商务合作**: business@sb.im
+- **技术支持**: 714882394@qq.com
+- **商务合作**: 714882394@qq.com
 - **官方网站**: https://www.sz-yfht.com/
 
 ---
