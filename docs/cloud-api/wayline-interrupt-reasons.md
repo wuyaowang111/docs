@@ -278,4 +278,4 @@ sidebar_position: 3
 **参考文档**
 
 - [航线任务进度上报](/api-integration/api-reference/superdock-hangar/wayline)
-- 官方网站：https://sb.im/
+- 官方网站：https://www.sz-yfht.com/
